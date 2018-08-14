@@ -1,8 +1,10 @@
-# chrom_workspace
+# Chrome Workspace
 使用Chrome实现在浏览器中编辑源代码
 
 一般调试项目的CSS的时候，往往在页面中F12调试CSS样式，然后将调试好的样式再复制到源代码中，完成源代码的更新。
 在学习SASS的时候偶然发现了Chrome的一个很好用的工具Workspace，就在F12开发者工具中。
+
+使用的条件：Chrome 版本 68.0.3440.106（正式版本） （32 位），Ruby Sass 3.5.7
 
 1.Workspace 将在开发者工具中（F12）修改源文件，但是Chrome并不知道文件的具体位置，
   所以需要Workspace建立映射关系来告诉Chrome修改哪个文件。
