@@ -25,4 +25,6 @@
 **************
 看到一些文章说需要开启“开发者工具实验”再进行上述操作，但是我没有开启一样可以用。
 开启方法：
-使用Chrome进入[chrome://flags/](chrome://flags/ "前往"),找到Developer Tools experiments，然后启用它。
+使用Chrome进入chrome://flags/,找到Developer Tools experiments，然后启用它。
+
+![test](https://github.com/myworldlh/Images-Warehouse/raw/master/pictures/奶油.JPG)
