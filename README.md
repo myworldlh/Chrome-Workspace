@@ -13,6 +13,8 @@
 
 3.然后就可以在F12的source中调试了，修改的部分将自动同步到源代码中。
 
+----------------
+
 #### 本地文件只支持编辑，不支持删除和重命名，一般用于编辑CSS,JS,HTML，多用于CSS，修改JS和HTML需要刷新页面才能执行。
 
 #### 本地搭建的127.0.0.1服务中，同样不支持删除和重命名，而且HTML不能修改，但是在localhost中可以，不知道为什么。另外修改JS不需要刷新，直接调用。
@@ -23,4 +25,4 @@
 **************
 看到一些文章说需要开启“开发者工具实验”再进行上述操作，但是我没有开启一样可以用。
 开启方法：
-使用Chrome进入 chrome://flags/ ，找到Developer Tools experiments，然后启用它。
+使用Chrome进入[chrome://flags/](chrome://flags/ "前往"),找到Developer Tools experiments，然后启用它。
